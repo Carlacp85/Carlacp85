@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  Sou  a Carla estudante e apaixonada por tecnologia.
 
 <!--
 **Carlacp85/Carlacp85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
