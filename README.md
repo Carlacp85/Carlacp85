@@ -7,7 +7,7 @@ Olá sou a Carla Estudante e apaixonada por tecnologia !🤗 <br>
    
   ##
  <div>
-  <img height="150cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlacp85cripts&layout=compact&theme=dark" />
+  <img height="150cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlacp85cripts&layout=compact&theme=dark" />
  
 ##
 </div>
