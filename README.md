@@ -1,8 +1,11 @@
 Olá sou a Carla Estudante e apaixonada por tecnologia !🤗 <br>
  Estou em transição de carreira para a área de Desenvolvimento
  
-
-
+<div>
+ <a href="https//github.com/Carlacp85">
+  <img heigth="180em" src"https://github-readme-status.vercel.app/api/toplangs/?username=Carlacp85&layout=compct&langs_count-16&theme-dark"/>
+                          
+ ##
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
