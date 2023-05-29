@@ -1,4 +1,4 @@
-Olá sou a Carla Estudante e apaixonada por tecnologia !🤗
+Olá sou a Carla Estudante e apaixonada por tecnologia !🤗 <br>
  Estou em transição de carreira para a área de Desenvolvimento
 
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
