@@ -4,18 +4,18 @@ Olá sou a Carla Estudante e apaixonada por tecnologia !🤗 <br>
  
 <div>
 <a href="https://github.com/Carlacp85/github-readme-stats">
-  <img height="150cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Carlacp85&show_icons=false&theme=dracula" />
+  <img height="160cm" align="center" src="https://github-readme-stats.vercel.app/api?username=Carlacp85&show_icons=false&theme=dracula" />
 </a>
 <a href="https://github.com/Carlacp85/convoychat">
-  <img height="150cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlacp85&layout=compact&theme=dracula" />
+  <img height="160cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlacp85&layout=compact&theme=dracula" />
 </a>
  </div>
  <br><br>
 
   <div>
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-<img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+<img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
    </div>
  <br><br>
 
